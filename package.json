@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "pixel-md",
   "version": "3.0.5",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Pïxèlzzzz whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
@@ -23,7 +23,7 @@
     "@adiwajshing/keyed-db": "0.2.4",
     "acrcloud": "1.4.0",
     "adm-zip": "0.5.9",
-    "sequelize": "^6.13.0",
+    "sequelize": "6.13.0",
     "async-g-i-s": "1.0.0",
     "link-preview-js": "2.1.15",
     "mongodb": "^4.3.1",
